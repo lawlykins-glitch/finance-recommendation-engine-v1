@@ -89,19 +89,14 @@ Professional PDF Report
 
 ![Feature Importance](feature_importance.png)
 
----
-
 ## Confusion Matrix
 
 ![Confusion Matrix](confusion_matrix.png)
-
----
 
 ## SHAP Waterfall Plot
 
 ![SHAP Plot](shap_waterfall.png)
 
----
 
 ## Project Status
 
