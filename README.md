@@ -85,10 +85,21 @@ Professional PDF Report
 
 ## Example Outputs
 
-* Feature Importance Graph
-* Confusion Matrix
-* SHAP Waterfall Plot
-* Automated PDF Summary Report
+## Feature Importance
+
+![Feature Importance](feature_importance.png)
+
+---
+
+## Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+---
+
+## SHAP Waterfall Plot
+
+![SHAP Plot](shap_waterfall.png)
 
 ---
 
